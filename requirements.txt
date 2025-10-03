@@ -1,0 +1,7 @@
+streamlit>=1.0
+numpy
+pandas
+torch
+scikit-learn
+matplotlib
+seaborn
