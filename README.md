@@ -90,7 +90,7 @@ MIT License - feel free to use and modify.
 
 ## Acknowledgments
 - Created by [Aishwarya Pagare](https://github.com/aishwaryapagare) as a demonstration project.
-- Supported by [New Gen Tech](https://newgentech.com) – Empowering innovative AI and ML solutions.
+- Supported by [New Gen Tech]Email-contact@newgentech.net.in – Empowering innovative AI and ML solutions.
 
 ---
 
